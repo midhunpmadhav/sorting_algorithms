@@ -26,7 +26,6 @@ void bubble_sort(int *arr, int n) {
         if(!swap_done)
             break;
     }
-
 }
 
 int main() {
