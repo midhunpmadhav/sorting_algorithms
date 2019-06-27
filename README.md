@@ -9,3 +9,4 @@ This repository contains following sorting algorithms
 2. Bubble sort
 3. Insertion sort 
 4. Merge sort
+5. Quick sort
